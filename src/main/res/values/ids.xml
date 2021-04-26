@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="photo_body" type="id" />
+    <item name="swipe_fragment1" type="id" />
+    <item name="swipe_fragment2" type="id" />
+</resources>
